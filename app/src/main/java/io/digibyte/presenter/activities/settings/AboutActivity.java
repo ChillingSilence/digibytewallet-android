@@ -60,13 +60,13 @@ public class AboutActivity extends BRActivity {
             overridePendingTransition(R.anim.enter_from_bottom, R.anim.empty_300);
         });
         blogShare.setOnClickListener(v -> {
-            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://digibyte.io"));
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://digibyte.org"));
             startActivity(browserIntent);
             overridePendingTransition(R.anim.enter_from_bottom, R.anim.empty_300);
         });
         policyText.setOnClickListener(v -> {
             Intent browserIntent = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://digibyte.io/digibyte-privacy-policy"));
+                    Uri.parse("https://github.com/DigiByte-Core/DGBio/blob/master/privacy-app.html"));
             startActivity(browserIntent);
             overridePendingTransition(R.anim.enter_from_bottom, R.anim.empty_300);
         });
