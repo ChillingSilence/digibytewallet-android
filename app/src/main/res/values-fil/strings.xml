@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Gawa ng global DigiWallet team. Bersyon %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Error</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">May problema sa iyong Android OS keystore, maaaring kontakin ang support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">May problema sa iyong Android OS keystore, maaaring kontakin ang https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Ang iyong naka-encrypt na datos ng DigiWallet ay napawalang-bisa dahil ang iyong Android lock screen ay hindi gumagana.</string>
   <!-- Keystore error title -->

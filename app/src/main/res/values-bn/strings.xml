@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet(ডিগী বাইট)</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">আন্তর্জাতিক DigiWallet টিম দ্বারা তৈরি। সংস্করণ  %১$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">ভুল</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">আপনার অ্যান্ড্রয়েড অপারেটিং সিস্টেম keystore একটি সমস্যা আছে, দয়া করে support@digibyte.io এ যোগাযোগ করুন।</string>
+  <string name="Alert.keystore.generic.android">আপনার অ্যান্ড্রয়েড অপারেটিং সিস্টেম keystore একটি সমস্যা আছে, দয়া করে https://dgbsupport.digiassetx.com এ যোগাযোগ করুন।</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">আপনার DigiWallet এনক্রিপ্ট ডেটা সম্প্রতি অকার্যকর হয়েছে, কারণ আপনার Android লক স্ক্রিনটি অক্ষম করা আছে।</string>
   <!-- Keystore error title -->

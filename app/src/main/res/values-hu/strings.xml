@@ -34,7 +34,7 @@ https://github.com/Racecraft/digibytewallet-android
   <!-- Error alert title -->
   <string name="Alert.error">Hiba</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Probléma lépett fel az Android operációs rendszer keystore fájljával. Kérlek lépj kapcsolatba velünk a support@digibyte.io email címen.</string>
+  <string name="Alert.keystore.generic.android">Probléma lépett fel az Android operációs rendszer keystore fájljával. Kérlek lépj kapcsolatba velünk a https://dgbsupport.digiassetx.com email címen.</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">A DigiWallet tárcád titkosított adatai az Android képernyőzárának kikapcsolása miatt érvénytelenítve lettek.</string>
   <!-- Keystore error title -->

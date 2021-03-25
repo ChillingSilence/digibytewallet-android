@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">"  global DigiWallet баг бүтээсэн. Хувилбар %1$s"</string>
   <!-- Privay Policy button label -->
@@ -37,7 +37,7 @@ DigiWallet нь DigiByte-д зориулсан гар утасны түрийв�
 Алдаа</string>
   <!-- Keystore error -->
   <string name="Alert.keystore.generic.android">
-Таны Андройд  OS-тэй холбоотой асуудал байна, support@digibyte.io хаягаар холбоо барина уу</string>
+Таны Андройд  OS-тэй холбоотой асуудал байна, https://dgbsupport.digiassetx.com хаягаар холбоо барина уу</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">
 Таны Андройд түгжээний дэлгэцийг идэвхгүй болгосон учраас таны DigiWallet шифрлэгдсэн дата саяхан хүчингүй болсон.</string>

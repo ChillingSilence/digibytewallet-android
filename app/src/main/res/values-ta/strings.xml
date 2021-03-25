@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">டிஜிவாலட்</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/
+  <string name="About.blog">https://digibyte.org/
 
 </string>
   <!-- About screen footer -->
@@ -36,7 +36,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">தவறு</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">உங்கள் ஆண்ட்ராய்டு ஓஎஸ் விசைதொகுப்பில் சிக்கல் உள்ளது, தயவு செய்து தொடர்பு கொள்ளவும் support@digibyte.io
+  <string name="Alert.keystore.generic.android">உங்கள் ஆண்ட்ராய்டு ஓஎஸ் விசைதொகுப்பில் சிக்கல் உள்ளது, தயவு செய்து தொடர்பு கொள்ளவும் https://dgbsupport.digiassetx.com
 </string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">உங்கள் ஆண்ட்ராய்டு பூட்டு திரை முடக்கப்பட்டதால் மறைகுறியாக்கப்பட்ட டிஜிவாலட் தகவல்கள் சமீபத்தில் செல்லாததாக்கப்பட்டது.</string>

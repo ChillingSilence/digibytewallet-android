@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">"డిజీవాలెట్ "</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">డిజీబైట్ వారిచే తయారుచేయబడింది. వెర్షన్ %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">లోపం</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">మీ ఆండ్రాయిడ్ కీస్టోర్‌లో ఏదో సమస్య ఉంది, దయచేసి మమ్మల్ని ఇక్కడ సంప్రదించండి. support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">మీ ఆండ్రాయిడ్ కీస్టోర్‌లో ఏదో సమస్య ఉంది, దయచేసి మమ్మల్ని ఇక్కడ సంప్రదించండి. https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">మీ ఆండ్రాయిడ్ లాక్ స్క్రీన్ నిలిపివేయబడినందున మీ డిజీవాలెట్‌లో గుప్తీకరించబడిన డేటా ఇప్పుడు చెల్లదు/రద్దు చేయబడింది.</string>
   <!-- Keystore error title -->

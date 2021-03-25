@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Búið til af DigiWallet teyminu. Útgáfa %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">Villa</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Það er vandamál með lyklavörslu Android stýrikerfis þíns, vinsamlegast hafðu samband við support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Það er vandamál með lyklavörslu Android stýrikerfis þíns, vinsamlegast hafðu samband við https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Dulkóðuð DigiWallet gögn þín voru nýlega ógild vegna þess að skjálás Android tækis þíns var gerður óvirkur.</string>
   <!-- Keystore error title -->

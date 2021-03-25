@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">制作　グローバルDigiWalletチーム　バージョン %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">エラー</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Android OSキーストアに問題があります。support@digibyte.io までご連絡ください。</string>
+  <string name="Alert.keystore.generic.android">Android OSキーストアに問題があります。https://dgbsupport.digiassetx.com までご連絡ください。</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Androidロック画面が無効になっているため、DigiWalletで暗号化されたデータが無効になりました。</string>
   <!-- Keystore error title -->

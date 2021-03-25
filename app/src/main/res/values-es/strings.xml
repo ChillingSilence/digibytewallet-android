@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Hecho por el equipo global DigiWallet. Versión %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Error</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Hay un problema con el keystore (depósito de claves) de su Android OS. Por favor comuníquese con el servicio de asistencia técnica:  support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Hay un problema con el keystore (depósito de claves) de su Android OS. Por favor comuníquese con el servicio de asistencia técnica:  https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">La información cifrada de su DigiWallet ha sido invalidada  recientemente porque el bloqueo de pantalla  de su  Android estaba desactivado.</string>
   <!-- Keystore error title -->

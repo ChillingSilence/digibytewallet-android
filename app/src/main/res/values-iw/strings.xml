@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">ארנק ה-DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">נכתב ע\"י הצוות הגלובלי של DigiWallet. גרסה %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">שגיאה</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">ישנה בעיה עם קוד האנדרואידת נא ליצור קשר עם התמיכה: support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">ישנה בעיה עם קוד האנדרואידת נא ליצור קשר עם התמיכה: https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">הנתונים המוצפנים של ארנק ה-DigiWallet שלך בוטלו בשל ביטול נעילת המסך של המכשיר.</string>
   <!-- Keystore error title -->

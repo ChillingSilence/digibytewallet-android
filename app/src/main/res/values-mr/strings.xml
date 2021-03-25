@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">डीजीपाकिट</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">जागतिक डिजिपाकिट संघाद्वारे बनविण्यात आलेली आहे.  आवृत्ती % 1 $ @</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">त्रुटी</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">आपल्या एंड्रॉइड ओएस कीस्टोर मध्ये एक समस्या आहे, कृपया support@digibyte.io ला संपर्क साधा.</string>
+  <string name="Alert.keystore.generic.android">आपल्या एंड्रॉइड ओएस कीस्टोर मध्ये एक समस्या आहे, कृपया https://dgbsupport.digiassetx.com ला संपर्क साधा.</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">आपल्या डीजीपाकिटाचा नुकताच कुटबद्ध केलेला डेटा अवैध होता, कारण आपली अँड्राईड लॉक स्क्रीन असमर्थ होती.</string>
   <!-- Keystore error title -->

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Fet per l\'equip global de DigiWallet. Versió %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Error</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Hi ha hagut un problema amb l\'almacent de claus del SO Android, per favor contacte support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Hi ha hagut un problema amb l\'almacent de claus del SO Android, per favor contacte https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Les seues dades encriptades de DigiWallet han segut recentment invalidades perque la pantalla de bloqueig del seu Android ha segut deshabilitada.</string>
   <!-- Keystore error title -->

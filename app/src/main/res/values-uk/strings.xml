@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Розроблено міжнародною командою DigiWallet. Версія %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Помилка</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Виникла проблема з вашим сховищем ключів Androis OS. Будь ласка, зв\'яжіться з support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Виникла проблема з вашим сховищем ключів Androis OS. Будь ласка, зв\'яжіться з https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Зашифровані дані DigiWallet недійсні, так як блокування екрану Android було відключено</string>
   <!-- Keystore error title -->

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">डिजीबाइट</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">वैश्विक डिगवालेट टीम द्वारा बनाया गया संस्करण% 1 $ @</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">त्रुटि</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">आपके एंड्रॉइड ओएस कीस्टोर में एक समस्या है, कृपया support@digibyte.io से संपर्क करें</string>
+  <string name="Alert.keystore.generic.android">आपके एंड्रॉइड ओएस कीस्टोर में एक समस्या है, कृपया https://dgbsupport.digiassetx.com से संपर्क करें</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">आपका डिजीबिट एन्क्रिप्ट किया गया डेटा हाल ही में अवैध था क्योंकि आपकी एंड्रॉइड लॉक स्क्रीन अक्षम थी</string>
   <!-- Keystore error title -->

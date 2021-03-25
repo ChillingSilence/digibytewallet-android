@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">"ડિગીવોલેટ "</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">વૈશ્વિક  ડિગિવોલેટ ટીમ દ્વારા બનાવેલ. આવૃત્તિ %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@
   <string name="Alert.error">ત્રુટિ</string>
   <!-- Keystore error -->
   <string name="Alert.keystore.generic.android">
-તમારી Android OS કીસ્ટોર સાથે કોઈ સમસ્યા છે, કૃપા કરીને support@digibyte.io નો સંપર્ક કરો</string>
+તમારી Android OS કીસ્ટોર સાથે કોઈ સમસ્યા છે, કૃપા કરીને https://dgbsupport.digiassetx.com નો સંપર્ક કરો</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">તમારા  ડીગીવોલેટનો  એન્ક્રિપ્ટ કરેલ ડેટા હાલમાં ગેરકાયદેસર છે કારણ કે તમારી Android લૉક સ્ક્રીન અક્ષમ હતી.
 </string>

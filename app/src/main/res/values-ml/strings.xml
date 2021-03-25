@@ -4,7 +4,7 @@
   <string name="About.appName.android">ഡിജിവാലറ്റ്
 </string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">നിര്‍മ്മിച്ചത്‌ ഗ്ലോബല്‍ ഡിജിവാലറ്റ് ടീം.വെര്‍ഷന്‍ %1$s</string>
   <!-- Privay Policy button label -->
@@ -37,7 +37,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">പിശക്</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">നിങ്ങളുടെ ആന്‍ഡ്രോയിഡ് OS കീ സ്റ്റോറില്‍  ഒരു പ്രശ്നമുണ്ട്, ദയവായി support@digibyte.io മായി ബന്ധപ്പെടുക.</string>
+  <string name="Alert.keystore.generic.android">നിങ്ങളുടെ ആന്‍ഡ്രോയിഡ് OS കീ സ്റ്റോറില്‍  ഒരു പ്രശ്നമുണ്ട്, ദയവായി https://dgbsupport.digiassetx.com മായി ബന്ധപ്പെടുക.</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">നിങ്ങളുടെ ആന്‍ഡ്രോയിഡ് മൊബൈലില്‍ ലോക്ക് സ്‌ക്രീന്‍  ഉപയോഗിക്കാത്തതിനാല്‍ നിങ്ങളുടെ ഡിജിവാലറ്റില്‍ എന്‍ക്രിപ്റ്റ് ചെയ്ത ഡാറ്റ അസാധുവാണ്.</string>
   <!-- Keystore error title -->

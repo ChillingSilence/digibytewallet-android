@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Magħmul mit-tim globali tad-DigiWallet. Verżjoni % 1 $ s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@ Dan il-proġett huwa sors miftuħ, tista \'tirrevedi l-kodiċi hawn: https://git
   <!-- Error alert title -->
   <string name="Alert.error">Errur</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Hemm problema bil-keystore Android OS tiegħek, jekk jogħġbok ikkuntattja support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Hemm problema bil-keystore Android OS tiegħek, jekk jogħġbok ikkuntattja https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Id-data kkodifikata tad-DigiWallet tiegħek ġiet reċentement invalidata minħabba li l-iskrin tiegħek ta \'lock Android kien diżattivat.</string>
   <!-- Keystore error title -->

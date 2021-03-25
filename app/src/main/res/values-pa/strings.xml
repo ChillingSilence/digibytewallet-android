@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">"ਡਿਜੀ  ਵਾਲਿਟ "</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">ਡਿਜੀ ਬਾਈਟ  ਟੀਮ ਦਾ ਬਣਾਇਆ ਹੋਇਆ ॥ ਵਰਜ਼ਨ %1$s</string>
   <!-- Privay Policy button label -->

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Napravljeno od strane globalnog DigiWallet tima. Verzija %1$@</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Greška</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Postoji problem sa Vašim Android OS keystore-om, molimo kontaktirajte support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Postoji problem sa Vašim Android OS keystore-om, molimo kontaktirajte https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Vaši DigiWallet kodirani podaci su nedavno poništeni jer je Android zaključavanje zaslona onemogućeno.</string>
   <!-- Keystore error title -->

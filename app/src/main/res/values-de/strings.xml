@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Vom globalen DigiWallet Team erstellt. Version %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Fehler</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Es gibt ein Problem mit Ihrem Android Keystore. Bitte kontaktieren Sie support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Es gibt ein Problem mit Ihrem Android Keystore. Bitte kontaktieren Sie https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Deine DigiWallet-verschlüsselten Daten wurden kürzlich ungültig gemacht, weil deine Android-Sperrbildschirm deaktiviert wurde.</string>
   <!-- Keystore error title -->

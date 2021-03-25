@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Global DigiWallet ekibi tarafından geliştirilmiştir. Versiyon %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Hata</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Android OS anahtar deponuz ile ilgili bir problem var, lütfen support@digibyte.io ile irtibata geçin.</string>
+  <string name="Alert.keystore.generic.android">Android OS anahtar deponuz ile ilgili bir problem var, lütfen https://dgbsupport.digiassetx.com ile irtibata geçin.</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Android kilit ekranınız devre dışı bırakıldığı için DigiWallet şifrelenmiş verileriniz kısa süre önce geçersiz hale getirildi.</string>
   <!-- Keystore error title -->

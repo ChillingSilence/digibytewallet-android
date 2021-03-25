@@ -2,7 +2,7 @@
 <resources>
 
 <!-- About screen blog label -->
-<string name="About.blog">"https://digibyte.io/"</string>
+<string name="About.blog">"https://digibyte.org/"</string>
 
 <!-- About screen footer -->
 <string name="About.footer">"由全球極特錢包團隊完成。版本 %1$@"</string>
@@ -30,7 +30,7 @@
 <string name="Alert.error">"錯誤"</string>
 
 <!-- Keystore error -->
-<string name="Alert.keystore.generic.android">"Keystore發生錯誤請您聯絡 support@digibyte.io"</string>
+<string name="Alert.keystore.generic.android">"Keystore發生錯誤請您聯絡 https://dgbsupport.digiassetx.com"</string>
 
 <!-- KeyStore error, keys are invalidated -->
 <string name="Alert.keystore.invalidated.android">"您極特錢包內的加密資訊已被消除 因您移除了安卓屏幕保護。"</string>

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">"ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು "</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">"ಪರದೆಯ ಅಡಿಟಿಪ್ಪಣಿಯ ಬಗ್ಗೆ "</string>
   <!-- Privay Policy button label -->

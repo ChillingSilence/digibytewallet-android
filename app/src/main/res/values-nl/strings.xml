@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Ontwikkeld door het wereldwijde DigiWallet team. Versie %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Fout</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Er is een probleem met je Android OS keystore, neem aub contact op met support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Er is een probleem met je Android OS keystore, neem aub contact op met https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Je DigiWallet gecodeerde gegevens zijn onlangs ongeldig gemaakt omdat je Android vergrendelingsscherm was uitgeschakeld.</string>
   <!-- Keystore error title -->

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Изработено од глобалниот DigiWallet тим. Верзија %1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">Грешка</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Постои проблем со Android OS keystore, ве молиме контактирајте support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Постои проблем со Android OS keystore, ве молиме контактирајте https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Вашите DigiWallet енкриптирани податоци се штотуку девалидизирани заради тоа што е исклучена Android опцијата за заклучување на екранот.</string>
   <!-- Keystore error title -->

@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Naredila globalna DigiWallet ekipa. Verzija %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Napaka</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Nastal je problem z Androidovo Shrambo Ključev, prosim kontaktirajte support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Nastal je problem z Androidovo Shrambo Ključev, prosim kontaktirajte https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Vaši šifrirani DigiWallet podatki so bili nedavno razveljavljeni zato, ker je bilo onemogočeno Zaklepanje Zaslona.</string>
   <!-- Keystore error title -->

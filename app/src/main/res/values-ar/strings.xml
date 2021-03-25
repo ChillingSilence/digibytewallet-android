@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">ديجيولت</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io</string>
+  <string name="About.blog">https://digibyte.org</string>
   <!-- About screen footer -->
   <string name="About.footer">من صنع فريق الديجيولت العالمي. الإصدار%1$s</string>
   <!-- Privay Policy button label -->
@@ -33,7 +33,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">خطأ</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">هناك مشكلة في تشغيل تخزين المفاتيح الخاص بنظام الاندرويد، يرجى الاتصال بـ support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">هناك مشكلة في تشغيل تخزين المفاتيح الخاص بنظام الاندرويد، يرجى الاتصال بـ https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">تم إبطال بياناتك المشفرة في الديجيولت مؤخرًا بسبب تعطيل شاشة قفل الاندرويد.</string>
   <!-- Keystore error title -->

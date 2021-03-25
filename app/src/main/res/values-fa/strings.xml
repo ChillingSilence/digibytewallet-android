@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">کیف پول دیجی</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">تهیه شده توسط تیم جهانی کیف پول دیجی. نسخه %1$s</string>
   <!-- Privay Policy button label -->
@@ -34,7 +34,7 @@ https://github.com/Racecraft/digibytewallet-android</string>
   <!-- Error alert title -->
   <string name="Alert.error">خطا</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">مشکلی در ذخیره سازی کلید سیستم عامل اندروید وجود دارد، لطفا با support@digibyte.io تماس بگیرید.</string>
+  <string name="Alert.keystore.generic.android">مشکلی در ذخیره سازی کلید سیستم عامل اندروید وجود دارد، لطفا با https://dgbsupport.digiassetx.com تماس بگیرید.</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">اطلاعات رمزگذاری کیف پول دیجی شما به تازگی نامعتبر شده است زیرا قفل صفحه اندروید شما غیرفعال شده است.</string>
   <!-- Keystore error title -->

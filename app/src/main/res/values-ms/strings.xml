@@ -3,7 +3,7 @@
   <!-- App name -->
   <string name="About.appName.android">DigiWallet</string>
   <!-- About screen blog label -->
-  <string name="About.blog">https://digibyte.io/</string>
+  <string name="About.blog">https://digibyte.org/</string>
   <!-- About screen footer -->
   <string name="About.footer">Dibuat oleh pasukan DigiWallet global. Versi %1$s</string>
   <!-- Privay Policy button label -->
@@ -32,7 +32,7 @@
   <!-- Error alert title -->
   <string name="Alert.error">Ralat</string>
   <!-- Keystore error -->
-  <string name="Alert.keystore.generic.android">Terdapat masalah dengan keystore OS Android anda, sila hubungi support@digibyte.io</string>
+  <string name="Alert.keystore.generic.android">Terdapat masalah dengan keystore OS Android anda, sila hubungi https://dgbsupport.digiassetx.com</string>
   <!-- KeyStore error, keys are invalidated -->
   <string name="Alert.keystore.invalidated.android">Data DigiWallet disulitkan baru-baru ini tidak sah kerana skrin kunci Android anda telah dilumpuhkan.</string>
   <!-- Keystore error title -->
